@@ -1,0 +1,8 @@
+{
+    "require":{
+        "guzzlehttp/guzzle":"*"
+    },
+    "autoload":{
+        "files":["index.php"]
+    }
+}
